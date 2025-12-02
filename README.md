@@ -12,16 +12,15 @@ You can watch the demo [here](https://youtu.be/DWIT8V1_BW8).
 Didn't Had chance to explore other versions, although this is the latest version.`[01-12-25]`
 
 ## Download, Use, Troubleshoot
-If your downloading it from GitHub, please select "Code", and then "Download ZIP".
-
-Alternative Ways.
+Downloads:
 - Mediafire link [here](https://google.com/)
 - Mega link [here](https://google.com/)
+- Github file link [here](https://github.com/xAloh-YTx/Horn-Jump/releases/download/Script_v1_0_0/@HornJump.lua)
 
 Once you download the script, you want to run the script in a Match & then you'll have to follow the instructions.
 
 If Your having problems with the Script. Contact [me](https://tinyurl.com/AlohYT)
 
-## Credits
+## Credits 
 - Aloh - Script creator
 - LazyGGScripter (retired) - Main Founder of Hack `[I Think xd]`
