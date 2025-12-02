@@ -1,7 +1,7 @@
 # Payback²: The Battle Sandbox | Horn Jump Script
 GameGuardian Lua Script made for Payback². Creator: Aloh<br><br>
 
-[![](https://markdown-videos.data.dev/youtube/DWIT8V1_BW8)](https://youtu.be/DWIT8V1_BW8)
+[![](https://markdown-videos.deta.dev/youtube/DWIT8V1_BW8)](https://youtu.be/DWIT8V1_BW8)
 
 ## Details
 - Whenever you hit the (Horn) button. Your car will Jump.
