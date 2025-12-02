@@ -13,8 +13,8 @@ Didn't Had chance to explore other versions, although this is the latest version
 
 ## Download, Use, Troubleshoot
 Downloads:
-- Mediafire link [here](https://google.com/)
-- Mega link [here](https://google.com/)
+- Mediafire link [here](https://www.mediafire.com/folder/lcxzi0atza3vs/Horn-Jump)
+- Mega link [here](https://mega.nz/folder/gEYVWBRJ#E3zB4TQBZFUmddcHCjLa_w)
 - Github file link [here](https://github.com/xAloh-YTx/Horn-Jump/releases)
 
 Once you download the script, you want to run the script in a Match & then you'll have to follow the instructions.
